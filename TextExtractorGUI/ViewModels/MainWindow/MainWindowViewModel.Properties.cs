@@ -1,4 +1,4 @@
-using TextExtractorGUI.Localization;
+using TextExtractorGUI.Infrastructure.Localization;
 using TextExtractorGUI.Records;
 
 namespace TextExtractorGUI.ViewModels.MainWindow;

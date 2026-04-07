@@ -2,9 +2,8 @@ using System;
 using System.ComponentModel;
 using System.Globalization;
 using TextExtractorGUI.Ressources;
-using TextExtractorGUI;
 
-namespace TextExtractorGUI.Localization;
+namespace TextExtractorGUI.Infrastructure.Localization;
 
 /// <summary>
 /// Lokalisierung der Anwendung.

@@ -16,7 +16,13 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=aee68f0b_002D485f_002D4946_002Da4ed_002Dea08f0a58b4a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Solution /&gt;
 &lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=TextExtractorGUI_002FInfrastructure_002FRessources_002FStrings/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=TextExtractorGUI_002FInfrastructure_002FRessources_002FStrings/@EntryIndexRemoved">True</s:Boolean>
 	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=TextExtractorGUI_002FRessources_002FStrings/@EntryIndexedValue">True</s:Boolean>
+	
+	
 	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=TextExtractorGUI_002FStrings/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=TextExtractorGUI_002FStrings/@EntryIndexRemoved">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=TextExtractorGUI_002FSystem_002FRessources_002FStrings/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=TextExtractorGUI_002FSystem_002FRessources_002FStrings/@EntryIndexRemoved">True</s:Boolean>
 	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

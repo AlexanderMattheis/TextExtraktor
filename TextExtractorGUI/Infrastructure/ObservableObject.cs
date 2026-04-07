@@ -1,7 +1,8 @@
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace TextExtractorGUI;
+namespace TextExtractorGUI.Infrastructure
+;
 
 /// <summary>
 /// Zentrale Basis für INotifyPropertyChanged.

@@ -1,6 +1,6 @@
 using System;
 using System.Windows.Input;
-using TextExtractorGUI.Localization;
+using TextExtractorGUI.Infrastructure.Localization;
 using TextExtractorGUI.Records;
 using TextExtractorGUI.Services;
 using TextExtractorGUI.Utilities;

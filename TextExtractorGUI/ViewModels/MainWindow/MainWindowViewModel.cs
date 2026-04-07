@@ -1,3 +1,5 @@
+using TextExtractorGUI.Infrastructure
+;
 using TextExtractorGUI.Services;
 
 namespace TextExtractorGUI.ViewModels.MainWindow;

@@ -1,7 +1,7 @@
 using System;
 using Avalonia.Data;
 using Avalonia.Markup.Xaml;
-using TextExtractorGUI.Localization;
+using TextExtractorGUI.Infrastructure.Localization;
 
 namespace TextExtractorGUI.Extensions;
 
