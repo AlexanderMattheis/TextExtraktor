@@ -5,6 +5,6 @@ namespace TextExtractorGUI.Infrastructure.Constants;
 /// </summary>
 public static class FileEndings
 {
-    public const string HTML = "HTML";
-    public const string MARKDOWN = "Markdown";
+    public const string HTML = "*.html";
+    public const string MARKDOWN = "*.md";
 }
